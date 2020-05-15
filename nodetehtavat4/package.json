@@ -1,0 +1,27 @@
+{
+  "name": "rest-api-example",
+  "version": "1.0.0",
+  "description": "Tämä on REST API -tehtävän pohja.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "jsdoc --destination docs db.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mruonavaara/rest-api-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mruonavaara/rest-api-example/issues"
+  },
+  "homepage": "https://github.com/mruonavaara/rest-api-example#readme"
+}
